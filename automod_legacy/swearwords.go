@@ -40,7 +40,7 @@ var BuiltinSwearWords = map[string]bool{
 	"jerk":        true,
 	"jizz":        true,
 	"knobend":     true,
-	"labia":       true,
+	"nalgas":       true,
 	"masturbate":  true,
 	"muff":        true,
 	"nigger":      true,
